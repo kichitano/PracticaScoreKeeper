@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practicacalificada</string>
+    <string name="equipo1">Equipo 1</string>
+    <string name="equipo2">Equipo 2</string>
+    <string name="aumentar_disminuir"></string>
+    <string name="ganador">Calcular Ganador</string>
+    <string name="resetear">Resetear Valores</string>
+    <string name="ptje">0</string>
+</resources>
